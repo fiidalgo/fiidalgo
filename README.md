@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Nico Fidalgo!
-🎬 Incoming Software Engineer Intern at Netflix on Playback Data Systems team <br>🏫 Harvard University M.S. and B.A. in Computer Science<br>🏋️‍♀️ Currently working on [Strava Clone](https://github.com/fiidalgo/strava-clone)<br>🌱 Currently learning about Neural Networks, PAC-learning, Data Compression, and NoSQL Systems<br>
+🎬 Incoming Software Engineer Intern at Netflix on Playback Data Systems team <br>🏫 Harvard University M.S. and B.A. in Computer Science<br>🏋️‍♀️ Currently working on [Strava Clone](https://github.com/fiidalgo/strava-clone)<br>📝 Check out my [resume](https://drive.google.com/file/d/1a-RNoEUp5qOo4pi8kQhsxksKfzhL3kJK/view?usp=sharing)<br>📚 Currently learning about Neural Networks, PAC-learning, Data Compression, and NoSQL Systems<br>
 
 
 ## 🌐 Contact Me
